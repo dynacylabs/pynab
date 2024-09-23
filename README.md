@@ -2,6 +2,8 @@
 
 **Pynab** is a Python library designed for seamless interaction with the YNAB (You Need A Budget) API. It provides a user-friendly interface to manage your budgets, accounts, transactions, and more with ease.
 
+Pynab currently works with YNAB's 1.72.0 API. For more information, see https://api.ynab.com/v1.
+
 ## Installation
 
 To install Pynab, follow these steps:
